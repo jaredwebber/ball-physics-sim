@@ -1,0 +1,20 @@
+
+canvas{
+    display: block;
+    margin: 0 auto;
+    background: white;
+    border: black solid 1px;
+}
+
+body{
+    background:white;
+}
+
+.title{
+    height:20%;
+}
+
+.heading{
+    text-align: center;
+    color: black;
+}
